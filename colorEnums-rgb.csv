@@ -1,0 +1,144 @@
+﻿Name,Value,Description
+rgbBlack,0,Black
+rgbMaroon,128,Maroon
+rgbDarkRed,139,Dark Red
+rgbRed,255,Red
+rgbOrangeRed,17919,Orange Red
+rgbDarkGreen,25600,Dark Green
+rgbGreen,32768,Green
+rgbOlive,32896,Olive
+rgbDarkOrange,36095,Dark Orange
+rgbOrange,42495,Orange
+rgbGold,55295,Gold
+rgbLawnGreen,64636,Lawn Green
+rgbLime,65280,Lime
+rgbChartreuse,65407,Chartreuse
+rgbYellow,65535,Yellow
+rgbDarkGoldenrod,755384,Dark Goldenrod
+rgbGoldenrod,2139610,Goldenrod
+rgbFireBrick,2237106,Fire Brick
+rgbForestGreen,2263842,Forest Green
+rgbOliveDrab,2330219,Olive Drab
+rgbBrown,2763429,Brown
+rgbSienna,2970272,Sienna
+rgbDarkOliveGreen,3107669,Dark Olive Green
+rgbGreenYellow,3145645,Green Yellow
+rgbLimeGreen,3329330,Lime Green
+rgbYellowGreen,3329434,Yellow Green
+rgbCrimson,3937500,Crimson
+rgbPeru,4163021,Peru
+rgbTomato,4678655,Tomato
+rgbDarkSlateGray,5197615,Dark Slate Gray
+rgbDarkSlateGrey,5197615,Dark Slate Grey
+rgbCoral,5275647,Coral
+rgbSeaGreen,5737262,Sea Green
+rgbIndianRed,6053069,Indian Red
+rgbSandyBrown,6333684,Sandy Brown
+rgbDimGray,6908265,Dim Gray
+rgbDimGrey,6908265,Dim Grey
+rgbDarkKhaki,7059389,Dark Khaki
+rgbPaleGoldenrod,7071982,Pale Goldenrod
+rgbMidnightBlue,7346457,Midnight Blue
+rgbMediumSeaGreen,7451452,Medium Sea Green
+rgbSalmon,7504122,Salmon
+rgbDarkSalmon,8034025,Dark Salmon
+rgbLightSalmon,8036607,Light Salmon
+rgbSpringGreen,8388352,Spring Green
+rgbNavy,8388608,Navy
+rgbNavyBlue,8388608,Navy Blue
+rgbPurple,8388736,Purple
+rgbTeal,8421376,Teal
+rgbGray,8421504,Gray
+rgbGrey,8421504,Grey
+rgbLightCoral,8421616,Light Coral
+rgbIndigo,8519755,Indigo
+rgbMediumVioletRed,8721863,Medium Violet Red
+rgbBurlyWood,8894686,Burly Wood
+rgbDarkBlue,9109504,Dark Blue
+rgbDarkMagenta,9109643,Dark Magenta
+rgbDarkSlateBlue,9125192,Dark Slate Blue
+rgbDarkCyan,9145088,Dark Cyan
+rgbLightCyan,9145088,Light Cyan
+rgbTan,9221330,Tan
+rgbKhaki,9234160,Khaki
+rgbRosyBrown,9408444,Rosy Brown
+rgbDarkSeaGreen,9419919,Dark Sea Green
+rgbSlateGray,9470064,Slate Gray
+rgbLightGreen,9498256,Light Green
+rgbDeepPink,9639167,Deep Pink
+rgbPaleVioletRed,9662683,Pale Violet Red
+rgbPaleGreen,10025880,Pale Green
+rgbLightSlateGray,10061943,Light Slate Gray
+rgbMediumSpringGreen,10156544,Medium Spring Green
+rgbCadetBlue,10526303,Cadet Blue
+rgbDarkGray,11119017,Dark Gray
+rgbDarkGrey,11119017,Dark Grey
+rgbLightSeaGreen,11186720,Light Sea Green
+rgbMediumAquamarine,11206502,Medium Aquamarine
+rgbNavajoWhite,11394815,Navajo White
+rgbWheat,11788021,Wheat
+rgbHotPink,11823615,Hot Pink
+rgbSteelBlue,11829830,Steel Blue
+rgbMoccasin,11920639,Moccasin
+rgbPeachPuff,12180223,Peach Puff
+rgbSilver,12632256,Silver
+rgbLightPink,12695295,Light Pink
+rgbBisque,12903679,Bisque
+rgbPink,13353215,Pink
+rgbDarkOrchid,13382297,Dark Orchid
+rgbMediumTurquoise,13422920,Medium Turquoise
+rgbMediumBlue,13434880,Medium Blue
+rgbSlateBlue,13458026,Slate Blue
+rgbBlanchedAlmond,13495295,Blanched Almond
+rgbLemonChiffon,13499135,Lemon Chiffon
+rgbTurquoise,13688896,Turquoise
+rgbDarkTurquoise,13749760,Dark Turquoise
+rgbLightGoldenrodYellow,13826810,LightGoldenrodYellow
+rgbDarkViolet,13828244,Dark Violet
+rgbMediumOrchid,13850042,Medium Orchid
+rgbLightGray,13882323,Light Gray
+rgbLightGrey,13882323,Light Grey
+rgbAquamarine,13959039,Aquamarine
+rgbPapayaWhip,14020607,Papaya Whip
+rgbOrchid,14053594,Orchid
+rgbAntiqueWhite,14150650,Antique White
+rgbThistle,14204888,Thistle
+rgbMediumPurple,14381203,Medium Purple
+rgbGainsboro,14474460,Gainsboro
+rgbBeige,14480885,Beige
+rgbCornsilk,14481663,Cornsilk
+rgbPlum,14524637,Plum
+rgbLightSteelBlue,14599344,Light Steel Blue
+rgbLightYellow,14745599,Light Yellow
+rgbRoyalBlue,14772545,Royal Blue
+rgbMistyRose,14804223,Misty Rose
+rgbBlueViolet,14822282,Blue Violet
+rgbLightBlue,15128749,Light Blue
+rgbPowderBlue,15130800,Powder Blue
+rgbLinen,15134970,Linen
+rgbOldLace,15136253,Old Lace
+rgbSkyBlue,15453831,Sky Blue
+rgbCornflowerBlue,15570276,Cornflower Blue
+rgbMediumSlateBlue,15624315,Medium Slate Blue
+rgbViolet,15631086,Violet
+rgbPaleTurquoise,15658671,Pale Turquoise
+rgbSeashell,15660543,Seashell
+rgbFloralWhite,15792895,Floral White
+rgbHoneydew,15794160,Honeydew
+rgbIvory,15794175,Ivory
+rgbLavenderBlush,16118015,Lavender Blush
+rgbWhiteSmoke,16119285,White Smoke
+rgbLightSkyBlue,16436871,Light Sky Blue
+rgbLavender,16443110,Lavender
+rgbSnow,16448255,Snow
+rgbMintCream,16449525,Mint Cream
+rgbBlue,16711680,Blue
+rgbFuchsia,16711935,Fuchsia
+rgbDodgerBlue,16748574,Dodger Blue
+rgbDeepSkyBlue,16760576,Deep Sky Blue
+rgbAliceBlue,16775408,Alice Blue
+rgbGhostWhite,16775416,Ghost White
+rgbAqua,16776960,Aqua
+rgbAzure,16777200,Azure
+rgbWhite,16777215,White
+,65536,
